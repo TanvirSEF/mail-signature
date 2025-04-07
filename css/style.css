@@ -53,7 +53,10 @@
     display: block;
 }
 .container .box .content .icon .fis{
-    margin-bottom: 70px;
+    margin-bottom: -30px;
+}
+.container .box .content .icon .fi2{
+    margin-top: 17px;
 }
 .container .box .content .info h3{
     font-size: 29px;
@@ -68,7 +71,7 @@
     display: block;
     font-size: 18px;
     color: #ccc;
-    padding-bottom: 26px;
+    padding-bottom: 22px;
 }
 .container .box .content .info  a{
     display: block;
